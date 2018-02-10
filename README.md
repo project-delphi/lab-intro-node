@@ -27,7 +27,7 @@ git push origin master
 
 ## Testing Introduction
 
-This exercise will be completed through a series of tests. You should be familiar with testing from previous lessons, but if you aren't, here is a kind Introduction to testing :)
+This exercise will be completed through a series of tests. You should be familiar with testing from previous lessons, but if you aren't, here is a **kind** introduction to testing :)
 
 ### What is testing?
 
@@ -163,4 +163,4 @@ Should return the average value of the array
 Should return the sum value of the array
 
 
-/Happy Coding
+!Happy Coding!
